@@ -1,8 +1,0 @@
-Stock Portfolio Summary
-------------------------
-BNB: 1 shares x $140 = $140
-NIFTY: 3 shares x $310 = $930
-TSLA: 2 shares x $250 = $500
-SENSEX: 2 shares x $180 = $360
-
-Total Investment Value: $1930
